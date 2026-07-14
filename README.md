@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/DhavalGupta1/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
