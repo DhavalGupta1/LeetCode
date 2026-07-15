@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DhavalGupta1/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DhavalGupta1/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Math
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DhavalGupta1/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
