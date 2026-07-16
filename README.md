@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhavalGupta1/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhavalGupta1/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
