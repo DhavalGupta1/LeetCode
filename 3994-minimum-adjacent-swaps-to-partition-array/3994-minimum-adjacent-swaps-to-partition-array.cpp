@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minAdjacentSwaps(vector<int>& nums, int a, int b) {
-        int res = 0;
+        long long res = 0;
         for(int i=0;i<nums.size();i++){
             if(nums[i]<a){
                 nums[i]=0;
@@ -28,7 +28,7 @@ public:
         //         res++;
         //     }
         // }
-        int temp1=0,temp2=0;
+        long long temp1=0,temp2=0;
         for(int i=0;i<nums.size();i++){
             if(nums[i]==0){
                 res+=temp1+temp2;
