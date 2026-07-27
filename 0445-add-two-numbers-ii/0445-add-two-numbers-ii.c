@@ -66,6 +66,5 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
         pre=curr;
         curr=next;
     }
-    l3=pre;
-    return l3;
+    return pre;
 }
