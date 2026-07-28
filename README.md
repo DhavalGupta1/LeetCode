@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhavalGupta1/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/DhavalGupta1/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DhavalGupta1/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3848-check-digitorial-permutation](https://github.com/DhavalGupta1/LeetCode/tree/master/3848-check-digitorial-permutation) |
 ## Number Theory
 |  |
 | ------- |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DhavalGupta1/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Counting
+|  |
+| ------- |
+| [3848-check-digitorial-permutation](https://github.com/DhavalGupta1/LeetCode/tree/master/3848-check-digitorial-permutation) |
 <!---LeetCode Topics End-->
