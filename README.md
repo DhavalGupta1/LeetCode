@@ -53,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/DhavalGupta1/LeetCode/tree/master/0089-gray-code) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DhavalGupta1/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DhavalGupta1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0089-gray-code](https://github.com/DhavalGupta1/LeetCode/tree/master/0089-gray-code) |
 | [0445-add-two-numbers-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhavalGupta1/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/DhavalGupta1/LeetCode/tree/master/0089-gray-code) |
 ## String
 |  |
 | ------- |
