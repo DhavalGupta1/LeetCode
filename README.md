@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DhavalGupta1/LeetCode/tree/master/0058-length-of-last-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhavalGupta1/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhavalGupta1/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/DhavalGupta1/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DhavalGupta1/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3340-check-balanced-string](https://github.com/DhavalGupta1/LeetCode/tree/master/3340-check-balanced-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DhavalGupta1/LeetCode/tree/master/0013-roman-to-integer) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/DhavalGupta1/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/DhavalGupta1/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3848-check-digitorial-permutation](https://github.com/DhavalGupta1/LeetCode/tree/master/3848-check-digitorial-permutation) |
 ## Counting Sort
 |  |
