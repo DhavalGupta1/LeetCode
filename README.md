@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DhavalGupta1/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0848-shifting-letters](https://github.com/DhavalGupta1/LeetCode/tree/master/0848-shifting-letters) |
+| [0877-stone-game](https://github.com/DhavalGupta1/LeetCode/tree/master/0877-stone-game) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/DhavalGupta1/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DhavalGupta1/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/DhavalGupta1/LeetCode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DhavalGupta1/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/DhavalGupta1/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhavalGupta1/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DhavalGupta1/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DhavalGupta1/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
