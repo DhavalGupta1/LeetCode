@@ -22,7 +22,6 @@ public:
         for(int i=0;i<arr.size();i++){
             bin+=arr[i];
         }
-        cout<<bin;
         long long res=0;
         long long c=1;
         for(int i=bin.length()-1;i>=0;i--){
