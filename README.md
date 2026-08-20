@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhavalGupta1/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DhavalGupta1/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/DhavalGupta1/LeetCode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Binary Search
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/DhavalGupta1/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1701-average-waiting-time](https://github.com/DhavalGupta1/LeetCode/tree/master/1701-average-waiting-time) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
 | ------- |
