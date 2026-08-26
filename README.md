@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DhavalGupta1/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0496-next-greater-element-i](https://github.com/DhavalGupta1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0848-shifting-letters](https://github.com/DhavalGupta1/LeetCode/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/DhavalGupta1/LeetCode/tree/master/0877-stone-game) |
@@ -119,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/DhavalGupta1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhavalGupta1/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhavalGupta1/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DhavalGupta1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0496-next-greater-element-i](https://github.com/DhavalGupta1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DhavalGupta1/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DhavalGupta1/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/DhavalGupta1/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
