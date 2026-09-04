@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/DhavalGupta1/LeetCode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DhavalGupta1/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0848-shifting-letters](https://github.com/DhavalGupta1/LeetCode/tree/master/0848-shifting-letters) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/DhavalGupta1/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
+| [3903-smallest-stable-index-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
