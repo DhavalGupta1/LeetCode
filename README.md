@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/DhavalGupta1/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/DhavalGupta1/LeetCode/tree/master/0089-gray-code) |
 ## String
