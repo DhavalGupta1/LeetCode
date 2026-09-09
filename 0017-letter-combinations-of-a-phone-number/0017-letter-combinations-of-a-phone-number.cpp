@@ -5,13 +5,13 @@ public:
             res.push_back(carry);
             return;
         }
-        int temp=digits[ind]-'0';
+        int temp=digits[ind]-'0'-2;
         for(int i=0;i<arr[temp].size();i++){
             make(ind+1,digits,arr,carry+arr[temp][i],res);
         }
     }
     vector<string> letterCombinations(string digits) {
-        string arr[]={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+        string arr[]={"abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         vector<string> res;
         string carry="";
         make(0,digits,arr,carry,res);
