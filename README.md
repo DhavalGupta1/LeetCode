@@ -190,10 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DhavalGupta1/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DhavalGupta1/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DhavalGupta1/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DhavalGupta1/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DhavalGupta1/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DhavalGupta1/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting
 |  |
 | ------- |
