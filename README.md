@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/DhavalGupta1/LeetCode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DhavalGupta1/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DhavalGupta1/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DhavalGupta1/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/DhavalGupta1/LeetCode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DhavalGupta1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/DhavalGupta1/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
