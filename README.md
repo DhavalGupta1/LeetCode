@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/DhavalGupta1/LeetCode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3452-sum-of-good-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DhavalGupta1/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3903-smallest-stable-index-i) |
