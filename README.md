@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DhavalGupta1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/DhavalGupta1/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DhavalGupta1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
