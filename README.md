@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/DhavalGupta1/LeetCode/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/DhavalGupta1/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/DhavalGupta1/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/DhavalGupta1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/DhavalGupta1/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DhavalGupta1/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DhavalGupta1/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/DhavalGupta1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0848-shifting-letters](https://github.com/DhavalGupta1/LeetCode/tree/master/0848-shifting-letters) |
+| [1004-max-consecutive-ones-iii](https://github.com/DhavalGupta1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/DhavalGupta1/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [3903-smallest-stable-index-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/DhavalGupta1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DhavalGupta1/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
