@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DhavalGupta1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhavalGupta1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/DhavalGupta1/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/DhavalGupta1/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/DhavalGupta1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/DhavalGupta1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhavalGupta1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/DhavalGupta1/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/DhavalGupta1/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DhavalGupta1/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/DhavalGupta1/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DhavalGupta1/LeetCode/tree/master/0283-move-zeroes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DhavalGupta1/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
