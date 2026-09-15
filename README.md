@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhavalGupta1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DhavalGupta1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/DhavalGupta1/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DhavalGupta1/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DhavalGupta1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/DhavalGupta1/LeetCode/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhavalGupta1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DhavalGupta1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/DhavalGupta1/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [3903-smallest-stable-index-i](https://github.com/DhavalGupta1/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DhavalGupta1/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DhavalGupta1/LeetCode/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DhavalGupta1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/DhavalGupta1/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhavalGupta1/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2544-alternating-digit-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/2544-alternating-digit-sum) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/DhavalGupta1/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DhavalGupta1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DhavalGupta1/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/DhavalGupta1/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhavalGupta1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DhavalGupta1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DhavalGupta1/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
