@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/DhavalGupta1/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/DhavalGupta1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhavalGupta1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/DhavalGupta1/LeetCode/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/DhavalGupta1/LeetCode/tree/master/0848-shifting-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhavalGupta1/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -298,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DhavalGupta1/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/DhavalGupta1/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
