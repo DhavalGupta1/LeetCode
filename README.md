@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DhavalGupta1/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/DhavalGupta1/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DhavalGupta1/LeetCode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/DhavalGupta1/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/DhavalGupta1/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/DhavalGupta1/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DhavalGupta1/LeetCode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DhavalGupta1/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/DhavalGupta1/LeetCode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
