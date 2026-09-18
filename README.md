@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DhavalGupta1/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/DhavalGupta1/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DhavalGupta1/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DhavalGupta1/LeetCode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/DhavalGupta1/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DhavalGupta1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhavalGupta1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/DhavalGupta1/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/DhavalGupta1/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/DhavalGupta1/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhavalGupta1/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DhavalGupta1/LeetCode/tree/master/0268-missing-number) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DhavalGupta1/LeetCode/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DhavalGupta1/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
