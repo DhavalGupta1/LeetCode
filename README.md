@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DhavalGupta1/LeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/DhavalGupta1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhavalGupta1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/DhavalGupta1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/DhavalGupta1/LeetCode/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/DhavalGupta1/LeetCode/tree/master/0848-shifting-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhavalGupta1/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DhavalGupta1/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DhavalGupta1/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhavalGupta1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/DhavalGupta1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/DhavalGupta1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/DhavalGupta1/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DhavalGupta1/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/DhavalGupta1/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DhavalGupta1/LeetCode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/DhavalGupta1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DhavalGupta1/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DhavalGupta1/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DhavalGupta1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DhavalGupta1/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DhavalGupta1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DhavalGupta1/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DhavalGupta1/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -339,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DhavalGupta1/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DhavalGupta1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
