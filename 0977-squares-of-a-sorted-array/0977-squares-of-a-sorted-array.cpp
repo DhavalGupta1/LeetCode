@@ -20,7 +20,6 @@ public:
         for(int i=0;i<arr.size();i++) arr[i]*=arr[i];
         vector<int> res;
         int j=pt-1;
-        cout<<arr[j]<<" "<<arr[pt];
         while(j!=-1&&pt<arr.size()){
             if(arr[pt]<arr[j]){
                 res.push_back(arr[pt]);
