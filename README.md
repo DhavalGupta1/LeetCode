@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/DhavalGupta1/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/DhavalGupta1/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/DhavalGupta1/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DhavalGupta1/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhavalGupta1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DhavalGupta1/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/DhavalGupta1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/DhavalGupta1/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DhavalGupta1/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DhavalGupta1/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DhavalGupta1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DhavalGupta1/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/DhavalGupta1/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DhavalGupta1/LeetCode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/DhavalGupta1/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DhavalGupta1/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
