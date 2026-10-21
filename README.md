@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhavalGupta1/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/DhavalGupta1/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DhavalGupta1/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/DhavalGupta1/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/DhavalGupta1/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DhavalGupta1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/DhavalGupta1/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DhavalGupta1/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DhavalGupta1/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DhavalGupta1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DhavalGupta1/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DhavalGupta1/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/DhavalGupta1/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DhavalGupta1/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3848-check-digitorial-permutation](https://github.com/DhavalGupta1/LeetCode/tree/master/3848-check-digitorial-permutation) |
