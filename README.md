@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DhavalGupta1/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DhavalGupta1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/DhavalGupta1/LeetCode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/DhavalGupta1/LeetCode/tree/master/0392-is-subsequence) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DhavalGupta1/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/DhavalGupta1/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/DhavalGupta1/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/DhavalGupta1/LeetCode/tree/master/0012-integer-to-roman) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DhavalGupta1/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/DhavalGupta1/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/DhavalGupta1/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/DhavalGupta1/LeetCode/tree/master/0018-4sum) |
@@ -467,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DhavalGupta1/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/DhavalGupta1/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
