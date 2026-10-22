@@ -1,10 +1,3 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     struct ListNode *next;
- * };
- */
 void add(struct ListNode **root,int val){
     struct ListNode *newnode=(struct ListNode*)malloc(sizeof(struct ListNode));
     newnode->val=val;
