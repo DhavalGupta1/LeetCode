@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DhavalGupta1/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/DhavalGupta1/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/DhavalGupta1/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/DhavalGupta1/LeetCode/tree/master/0090-subsets-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DhavalGupta1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/DhavalGupta1/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DhavalGupta1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/DhavalGupta1/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/DhavalGupta1/LeetCode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DhavalGupta1/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DhavalGupta1/LeetCode/tree/master/0189-rotate-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DhavalGupta1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhavalGupta1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DhavalGupta1/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DhavalGupta1/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/DhavalGupta1/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/DhavalGupta1/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DhavalGupta1/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DhavalGupta1/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/DhavalGupta1/LeetCode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/DhavalGupta1/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1701-average-waiting-time](https://github.com/DhavalGupta1/LeetCode/tree/master/1701-average-waiting-time) |
